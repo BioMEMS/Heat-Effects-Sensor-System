@@ -1,4 +1,4 @@
-# Heat_Effects_Sensor_System
+# Heat-Effects-Sensor-System
 This is the Teensy 3.6 code for the Heat Effects Sensor System developed in Prof. Cristina Davis' Bioinstrumentation and BioMEMS laboratory. Publications (i.e. articles, book chapters, etc.) that use this software are required to cite the related article:
 Pham S, Yeap D, Escalera G, Basu R, Wu X, Kenyon NJ, Hertz-Picciotto I, Ko M, Davis CE*. (2020) Wearable sensor system to monitor physical activity and the physiological effects of heat exposure. Sensors 20(3): 855. DOI: 10.3390/s20030855
 
